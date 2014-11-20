@@ -1,0 +1,16 @@
+{
+	"wpVer": "4.0",
+	"url": "http://smvdualumni.net.in",
+	"tablePrefix": "alumni_",
+	"dbHost": "localhost",
+	"dbName": "smvdu-alumni-db",
+	"dbUser": "smvdu",
+	"dbPass": "smvdu",
+	"git": true,
+	"submodule": false,
+	"customDirs": true,
+	"wpDir": "app",
+	"contentDir": "content",
+	"installTheme": false,
+	"saltKeys": "define('AUTH_KEY',         'j[:.rlLe&}^;20e !|4:hvp-J#&le^X8)c!`MSdX-gu6GaJt$h6|mOdD`6|l/^ER');\ndefine('SECURE_AUTH_KEY',  '[KW?}Md!#SlkMz|q%r};;9:-EN/OaA!>|Oe64V3S}KbXZg*h|gv$Pf.UBtUZ0g#m');\ndefine('LOGGED_IN_KEY',    'AC.%;4XM |8jrHpxVZ4%-96],a~kkY-iMs|?^^5^@DY8{Anua|#kDJLd`L.5V&hs');\ndefine('NONCE_KEY',        'FI.R?q-2BiLi,8hlRRh-f^kFiaCfC:.-.Wo1OF&o:+?~)UHE=:Yg[]!m0Xev2{Sk');\ndefine('AUTH_SALT',        'raB$tt+8#[%?Ylj+*m$|:gjmKwdb@mVa$(:W^~I[PpJ7-T5Fuyv}<rw9=jss*X53');\ndefine('SECURE_AUTH_SALT', 'IW8n?g&-dt;DSz7?3~fneMK3:+MXPrJY|xo<WS!`Sb5(O3J0S%o{:%+KtS+vkdO[');\ndefine('LOGGED_IN_SALT',   'mTkXB.SkJ[f4[8qxCYM_+|C%5Q^KS?M&(KAFJ+=@>rr~V:H|+^s@g HjSFft:_}|');\ndefine('NONCE_SALT',       '`/b9+-WTj-~|8DY=MUL`vA>||e7IeE<X?1G=]A5IHHb5Au(bj,X7m+%a#r5rC.|6');\n"
+}
